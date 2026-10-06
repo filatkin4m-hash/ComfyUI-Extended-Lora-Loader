@@ -7,6 +7,7 @@ Custom nodes for **ComfyUI** that extend the standard `Load LoRA (Model Only)` f
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
+<img src="images/prev_01.JPG" width="300" alt="preview">
 
 ## ✨ Features
 
